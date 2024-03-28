@@ -13,6 +13,7 @@
 #define DISTANCE_THRESHOLD 100
 
 // coo en tps reel
+int y = 0;
 int x = 0;
 // coo pt de depart
 int xinit = 0;
